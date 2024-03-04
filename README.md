@@ -14,4 +14,4 @@ This project aims to classify animals into 5 different classes and One vs rest c
 
 I made a great effort, but I was unable to host my notebook in quarto because of time constraints.<br>
 While rendering my notebook to quarto, I was facing a lot of errors.
-![alt text](http://C:\Users\abhij\Pictures\Screenshots\Screenshot 2024-03-04 101309.png)
+
