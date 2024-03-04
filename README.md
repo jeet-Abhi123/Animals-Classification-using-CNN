@@ -13,7 +13,7 @@ This project aims to classify animals into 5 different classes and One vs rest c
 6) ChatGPT : Used for resolving error.
 
 I made a great effort, but I was unable to host my notebook in quarto because of time constraints.<br>
-While rendering my notebook to quarto, I was facing a lot of errors.
+While rendering my notebook to quarto, I was facing a lot of errors.<br>
 <img width="960" alt="Screenshot 2024-03-04 101309" src="https://github.com/jeet-Abhi123/Animals-Classification-using-CNN/assets/143840497/565d4c21-de71-43aa-bab5-b5bf6cb92d2a">
 
 
