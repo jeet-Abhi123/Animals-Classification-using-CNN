@@ -11,3 +11,7 @@ This project aims to classify animals into 5 different classes and One vs rest c
 4) Tensorflow and Keras Documentation : Referred it for code syntax and execution.
 5) Youtube : Codebasics channel for studying concepts of CNN like padding, stride, Flatten , Dropout etc.
 6) ChatGPT : Used for resolving error.
+
+I made a great effort, but I was unable to host my notebook in quarto because of time constraints.<br>
+While rendering my notebook to quarto, I was facing a lot of errors.
+![alt text](http://C:\Users\abhij\Pictures\Screenshots\Screenshot 2024-03-04 101309.png)
